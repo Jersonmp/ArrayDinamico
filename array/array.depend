@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1527169114 source:c:\users\alumno-a\desktop\array\main.cpp
+	<iostream>
+	"ArregloDinamicoInt.h"
+
+1527169123 c:\users\alumno-a\desktop\array\include\arreglodinamicoint.h
+	<iostream>
+
